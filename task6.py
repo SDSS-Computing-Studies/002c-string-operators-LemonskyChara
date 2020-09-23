@@ -1,3 +1,7 @@
 #!python3
 
-print("The future belongs to those" + + "who believe in the beauty" + "\n" of their dreams."
+Word1 = "The future belongs to those "
+Word2 = "who believe in the beauty "
+Word3 = "of their dreams."
+result = Word1 + Word2 + Word3
+print(result)
